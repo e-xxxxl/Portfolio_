@@ -1,0 +1,360 @@
+*{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Kanit", sans-serif;
+   font-weight: 500;
+   font-style: normal;
+
+  }
+  .bug{
+    display: none;
+  }
+  .Main-nav{
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    box-shadow: 2px 1px 0px 0px;
+    display: flex;
+    border: 1px black thin;
+    /* background-color: #242424; */
+  }
+  .nav-img{
+    margin-top: 5px;
+    margin-left: 50px;
+    height: 55px;
+  }
+  .nav-links{
+    display: flex;
+    gap: 25px;
+    margin-left: 700px;
+    margin-top: 20px;
+    font-size: 15px;
+    color: black;
+    cursor: default;
+  }
+  .nav-links a{
+    text-decoration: none !important;
+    color:black;
+  }
+  .nav-links a:hover{
+    color: blueviolet;
+  }
+  .offcanvas{
+    color: blueviolet;
+  }
+  .Img_row1{
+    display: flex;
+    flex-wrap: wrap;
+    gap:60px;
+    justify-content:center;
+    margin-top:70px;
+  }
+  .Img1{
+    width: 80px;
+  }
+  .Img1:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+  cursor: pointer;
+  }
+  .txt1{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+  }
+  .Img2{
+    width: 80px;
+  }
+  .Img2:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+  cursor: pointer;
+  }
+  .txt2{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+  }
+  .Img3{
+    width: 80px;
+  }
+  .Img3:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+  cursor: pointer;
+  }
+  .txt3{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+  }
+  .Img4{
+    width: 80px;
+  }
+  .Img4:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+  cursor: pointer;
+  }
+  .txt4{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+  }
+  .Img5{
+    width: 80px;
+  }
+  .Img5:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+  cursor: pointer;
+  }
+  .txt5{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+  }
+  .Img6{
+    width: 80px;
+  }
+  .Img6:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+  cursor: pointer;
+  }
+  .txt6{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+  }
+    /* ROW2 */
+    .Img_row2{
+      display: flex;
+      flex-wrap: wrap;
+      gap:60px;
+      justify-content:center;
+      margin-top: 30px;
+    }
+    .Img7{
+    width: 80px;
+  }
+  .Img7:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+  cursor: pointer;
+  }
+  .txt7{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+  }
+    .Img8{
+    width: 80px;
+  }
+  .Img8:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+  cursor: pointer;
+  }
+  .txt8{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+  }
+    .Img9{
+    width: 80px;
+  }
+  .Img9:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+  cursor: pointer;
+  }
+  .txt9{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+  }
+    .Img10{
+    width: 80px;
+  }
+  .Img10:hover{
+    transform: scale(1.1);
+    transition: 0.7s;
+  cursor: pointer;
+  }
+  .txt10{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+  }
+
+  /* SERVICES */
+  
+  .services-cont{
+    display: flex;
+      flex-wrap: wrap;
+      gap:60px;
+      justify-content:center;
+      margin-top: 50px;
+  }
+  .services-cont p{
+    font-size:15px;
+  }
+  .CARD{
+    width: 300px;
+    height: 350px;
+    background-color: rgb(245, 245, 245);
+    transition: transform 2s, background-color 1s, box-shadow 1s;
+    text-align:center;
+    font-weight:bold;
+    border-radius:5px;
+    padding:12px;
+  }
+  .CARD:hover{
+    transform: scale(1.0) ;
+    cursor: pointer;
+    background-color:white;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2), 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .cardimg1{
+    margin-top:50px;
+
+  }
+    /* PROJECTS */
+      
+    /* From Uiverse.io by Yaya12085 */ 
+    .main-projects{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 40px;
+      justify-content: center;
+      margin-top: 50px;
+    } 
+.projectcard {
+  max-width: 300px;
+  border-radius: 0.5rem;
+  background-color: #fff;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  border: 1px solid transparent;
+}
+
+.projectcard a {
+  text-decoration: none
+}
+
+.content {
+  padding: 1.1rem;
+}
+
+.projectimage {
+  object-fit: cover;
+  width: 100%;
+  height: 150px;
+
+}
+
+.title {
+  color: #111827;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  font-weight: 600;
+}
+
+.desc {
+  margin-top: 0.5rem;
+  color: #6B7280;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.action {
+  display: inline-flex;
+  margin-top: 1rem;
+  color: #ffffff;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  align-items: center;
+  gap: 0.25rem;
+  background-color: blueviolet;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.action span {
+  transition: .3s ease;
+}
+
+.action:hover span {
+  transform: translateX(4px);
+}
+.btn{
+  background-color: blueviolet;
+  color: white;
+}
+.btn:hover{
+  background-color: white;
+  color: blueviolet;
+  border: 1px solid blueviolet;
+}
+.cv{
+  text-decoration: none;
+  color: black;
+}
+.exxl{
+  height: 70px;
+}
+.idk{
+  color: blueviolet;
+}
+.name_icon{
+  justify-content: center;
+  display:flex;
+  align-items: center;
+  gap: 10px;
+}
+.name_icon img{
+  margin-bottom: 20px;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+  @media screen and (max-width: 768px) {
+    .nav-links{
+      display: none;
+    }
+    .Main-nav{
+      width: 100%;
+      height: 60px;
+      box-shadow: 2px 1px 0px 0px;
+      display: flex;
+      border: 1px black thin;
+    }
+    .nav-img{
+      margin-top: 5px;
+      margin-left: 20px;
+      height: 55px;
+    }
+    .bug{
+      height: 40px;
+      position: absolute;
+      display: block;
+      margin-left: 82%;
+      margin-top: 15px;
+      width: 12%;
+      border-radius: 7px;
+      background-color: blueviolet;
+      color: black;
+      
+      
+    }
+    .navbar-toggler-icon{
+      color: black;
+    }
+    .developer{
+      display: none !important;
+    }
+    
+    
+  }
