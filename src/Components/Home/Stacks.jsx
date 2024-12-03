@@ -78,7 +78,7 @@
            
             <div>
             <img className='Img9' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-            <h3 className='txt9'>Bootsrap</h3>
+            <h3 className='txt9'>Bootstrap</h3>
             </div>
             
             <div>
