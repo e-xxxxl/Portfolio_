@@ -26,7 +26,7 @@
         
         </div> */}
 
-<div id='stacks'c >
+<div id='stacks' class="container px-2 py-5" >
     <h2 class="pb-2 border-bottom ">My Tech Stacks</h2>
 
 
