@@ -75,7 +75,7 @@ const Projects = () => {
     </a>
 
     <p class="desc">
-    ake control of your finances with ease! Our budget app helps you track expenses, set savings goals, and manage your money effectively. Stay organized and achieve financial freedom, one step at a time!
+    Take control of your finances with ease! Our budget app helps you track expenses, set savings goals, and manage your money effectively. Stay organized and achieve financial freedom, one step at a time!
     </p>
 
     <a class="action" href="https://budget-app-silk.vercel.app/">
