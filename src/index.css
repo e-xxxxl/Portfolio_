@@ -28,14 +28,14 @@
     gap: 25px;
     margin-left: 700px;
     margin-top: 20px;
-    font-size: 15px;
+    font-size: 18px;
     color: black;
     cursor: default;
   }
   .nav-links a{
     text-decoration: none !important;
     color:black;
-    font-weight:bold;
+  
   }
   .nav-links a:hover{
     color: blueviolet;
