@@ -2,10 +2,9 @@
     border: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "Kanit", sans-serif;
-   font-weight: 500;
-   font-style: normal;
-
+    font-family: "Kanit", serif;
+    font-weight: 400;
+    font-style: normal;
   }
   .bug{
     display: none;
