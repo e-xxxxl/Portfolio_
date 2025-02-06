@@ -13,7 +13,7 @@ const Footer = () => {
       <div class="col-lg-6 mx-auto">
         <p class="fs-5 mb-2 text-white">Contact Me</p>
         <div class="name_icon">
-         <p>© 2024 Ajejohnson Emmanuel</p>
+         <p>© 2024 Ajejohnson Emmanuell</p>
          <a href="https://github.com/e-xxxxl"><img src={github} alt="" /></a>
          <a href="https://x.com/aje_emmanuell"><img src={X} alt="" /></a>
          <a href="mailto:eajejohnson@gmail.com"><img src={gmail} alt="" /></a>
