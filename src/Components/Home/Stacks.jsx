@@ -86,6 +86,11 @@
             <h3 className='txt10'>Git</h3>
             </div>
 
+            <div>
+            <img className='Img11' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  />
+            <h3 className='txt11'>TailwindCss</h3>
+            </div>
+
 
 
 
