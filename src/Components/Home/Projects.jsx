@@ -4,6 +4,7 @@ import Jokespng from '../../assets/jokes.png'
 import  Love from '../../assets/lovecalculator.png'
 import Weather from '../../assets/weatherapp.png'
 import bookit from '../../assets/bookitimg.png'
+import todo from '../../assets/todoimg.png'
 const Projects = () => {
   return (
     <>
@@ -119,6 +120,30 @@ const Projects = () => {
     <a href="#">
       <span class="title">
             A Love Calculator 
+      </span>
+    </a>
+
+    <p class="desc">
+    A fun platform to calculate love compatibility! Enter names, get playful scores, and enjoy lighthearted results. Perfect for couples and friends to share and smile!
+    </p>
+
+    <a class="action" href="https://love-calculator-2.vercel.app/">
+      Live Preview
+      <span aria-hidden="true">
+        →
+      </span>
+    </a>
+  </div>
+</div>
+
+<div class="projectcard">
+ <div class="projectimage">
+  <img class="projectimage" src={todo} alt="" />
+ </div>
+  <div class="content">
+    <a href="#">
+      <span class="title">
+            A Todo List
       </span>
     </a>
 
