@@ -1,7 +1,7 @@
 import React from 'react'
 import Budgetpng from '../../assets/bgtapp.png'
 import Jokespng from '../../assets/jokes.png'
-import  Love from '../../assets/lovecalculator.png'
+import  Love from '../../assets/loveimg.png'
 import Weather from '../../assets/weatherapp.png'
 import bookit from '../../assets/bookitimg.png'
 import todo from '../../assets/todoimg.png'
@@ -95,7 +95,7 @@ const Projects = () => {
   <div class="content">
     <a href="#">
       <span class="title">
-            A Weather App (NOT RESPONSIVE)
+            A Weather App 
       </span>
     </a>
 
@@ -103,7 +103,7 @@ const Projects = () => {
     Stay prepared with our weather app! Get real-time updates, forecasts, and alerts for your location. Whether it's sunny or stormy, plan your day with confidence!
     </p>
 
-    <a class="action" href="https://budget-app-silk.vercel.app/">
+    <a class="action" href="https://ajejohnson-weather-app.vercel.app/">
       Live Preview
       <span aria-hidden="true">
         →
@@ -148,10 +148,10 @@ const Projects = () => {
     </a>
 
     <p class="desc">
-    A fun platform to calculate love compatibility! Enter names, get playful scores, and enjoy lighthearted results. Perfect for couples and friends to share and smile!
+    A straightforward and easy-to-use to-do list! Quickly add, edit, and delete tasks to stay organized without any hassle. Perfect for keeping track of your daily tasks with ease! ✅
     </p>
 
-    <a class="action" href="https://love-calculator-2.vercel.app/">
+    <a class="action" href="https://ajejohnson-todo-list.vercel.app/">
       Live Preview
       <span aria-hidden="true">
         →
