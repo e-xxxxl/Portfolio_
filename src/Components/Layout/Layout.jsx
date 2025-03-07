@@ -17,9 +17,7 @@ const Layout = () => {
     <Projects/>
     <ContactForm/>
     <Footer/>
-
-    </div>
-        
+    </div>  
     </>
   )
 }

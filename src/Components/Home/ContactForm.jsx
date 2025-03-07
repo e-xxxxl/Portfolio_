@@ -45,7 +45,7 @@ const ContactForm = () => {
       Swal.fire({
         icon: 'error',
         title: 'Error',
-        text: 'An error occurred. Please try again later.',
+        text: 'An error occurred. Please try again later..',
       });
     }
   };
