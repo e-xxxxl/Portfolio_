@@ -23,7 +23,7 @@ const Projects = () => {
   <div class="content">
     <a href="#">
       <span class="title">
-            BOOKIT (A Hotel Booking Platform)   
+            BOOKIT (A Hotel Booking Platform)with DEV SAM  
       </span>
     </a>
 
