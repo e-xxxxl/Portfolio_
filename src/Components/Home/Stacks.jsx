@@ -91,6 +91,13 @@
             <h3 className='txt11'>TailwindCss</h3>
             </div>
 
+            <div>
+          
+            <img className='Img11' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+          
+            <h3 className='txt11'>AngularJS</h3>
+            </div>
+
 
 
 
